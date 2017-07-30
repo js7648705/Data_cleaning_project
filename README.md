@@ -1,4 +1,4 @@
-  #The script "script_analysis.R" performs the following analysis#
+  # The script "script_analysis.R" performs the following analysis
         
  1. Download the data"data.zip" and unzip it to extract the files into data folder.
 
