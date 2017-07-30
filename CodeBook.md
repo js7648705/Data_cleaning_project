@@ -1,4 +1,4 @@
-## This document provides information about the variables given in "tidy_data.txt" file. Measurements (mean and std)are taken when an actvity (which has name or label and actvity_Id) is performed by particular subject(subject_Id)
+### This document provides information about the variables given in "tidy_data.txt" file. Measurements (mean and std)are taken when an actvity (which has name or label and actvity_Id) is performed by particular subject(subject_Id)
 
 ### Actvities Id with their coressponding actvitiy type
 ### activity_Id      activity_Name
